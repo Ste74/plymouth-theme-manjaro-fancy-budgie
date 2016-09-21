@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=manjaro-fancy-budgie theme
+Description=manjaro-fancy-budgie theme W/O progress bar
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/manjaro-fancy-budgie
+ScriptFile=/usr/share/plymouth/themes/manjaro-fancy-budgie/mdv.script
